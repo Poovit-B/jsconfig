@@ -1,1 +1,7 @@
 # jsconfig
+
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  }
+}
